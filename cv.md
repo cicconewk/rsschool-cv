@@ -84,7 +84,7 @@ _Suppliment department assistant at [the Meat Factory](https://dubki-rc.ru/ "Dub
 - [ ]  Talent to make customers feel themselves your greatest value
 
 ---
-My **Code example** is from Kata7 of CodeWars
+My **Code sample** is from Kata7 of my [CodeWars profile](https://www.codewars.com/users/anlarus)
 
 ```javascript
 function factorial(n)
