@@ -17,7 +17,7 @@ Curriculum Vitae
 
 I am an easy learner and for last 7 years I have been a self studied tourist guide and it has been a strong passion of mine since moving to Chile. Due to the pandemic, there is no more tourism. That's why, now I have time and desire to look for a new area of subsistence for my family. I genuinely love logic and algorithms, and consider myself potentially good at Maths as an engineer. I feel confident with my tech background and have a creative skill set. As I like to communicate, exchange with people and colaborate, I can excel in any group and would be an excellent candidate for the tech tasks.
 
-**Front End RS alumna**
+[**Front End RS alumna**](https://www.linkedin.com/in/anialeinikova/)
 <br/>
 **************************************************************
 >**2020 - until now** intern at a [Customs Agency JVD](http://www.jvd.cl/) in Chile
