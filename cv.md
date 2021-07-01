@@ -51,10 +51,10 @@ _Suppliment department assistant at [the Meat Factory](https://dubki-rc.ru/ "Dub
 >>_by **[National Customs Camera of Chile](https://cadch.cl/)**_
 
 >>**2006 - 2010**  graduated with customs manager degree
->>_**[Russian Customs Academy, Russia][rca]:**
+>>_**[Russian Customs Academy, Russia][rca]:**_
 
 >>**2001 - 2006**  graduated with engineer degree
->>_**[State Vavilov Agrarian University, Russia](http://en.sgau.ru/)**
+>>_**[State Vavilov Agrarian University, Russia](http://en.sgau.ru/)**_
 ***
 
 ### **Hard skills**
@@ -83,7 +83,26 @@ _Suppliment department assistant at [the Meat Factory](https://dubki-rc.ru/ "Dub
 - [ ]  Customers and suppliers relationships management
 - [ ]  Talent to make customers feel themselves your greatest value
 
+---
+My **Code example** is from Kata7 of CodeWars
 
+```javascript
+function factorial(n)
+{if (n < 0 || n > 12) { throw new RangeError("Error!"); }  
+else {let a = 1;
+for ( i = 1; i <= n; i++) {
+  a = a*i;
+} return a;
+} 
+}
+
+//check the value of variable to be inside the range
+//if it is outside return "error"
+//if it is inside, create new variable a, one of them factore role,
+//and start "for" function 
+//and count factor from 1 to previous to n number and multiplicate every time
+//exit the loop returning the ultimate "inside range" result
+```
 ---
 
 ### _**My essence and free time**_
