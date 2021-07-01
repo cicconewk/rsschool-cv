@@ -55,6 +55,8 @@ _Suppliment department assistant at [the Meat Factory](https://dubki-rc.ru/ "Dub
 
 >>**2001 - 2006**  graduated with engineer degree
 >>_**[State Vavilov Agrarian University, Russia](http://en.sgau.ru/)**_
+
+
 ***
 
 ### **Hard skills**
@@ -73,6 +75,8 @@ _Suppliment department assistant at [the Meat Factory](https://dubki-rc.ru/ "Dub
 >- Intermediate English B2
 >- Fluent Spanish
 >- Native Russian
+
+
 ---
 
 ### **Soft skills**
