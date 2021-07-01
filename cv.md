@@ -38,6 +38,12 @@ _Suppliment department assistant at [the Meat Factory](https://dubki-rc.ru/ "Dub
 
 ***
 
+>**2021** actually alumna in DWFE Trainee Acamica/Globant course
+>>_by **[Acamica](https://www.acamica.com/)**_
+
+>**2021** finished Plataforma5 DWFE Intro course
+>>_by **[Plataforma5](https://plataforma5.la/)**_
+
 >**2021** graduated from Digital Marketing course
 >>_by **[Tu Clase Tu Pais](https://www.tuclase.cl/)**_
 
