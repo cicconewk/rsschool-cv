@@ -64,7 +64,7 @@ _Suppliment department assistant at [the Meat Factory](https://dubki-rc.ru/ "Dub
 >* Power Point
 
 3. Languages i speak
->- Intermediate English B2/C1
+>- Intermediate English B2
 >- Fluent Spanish
 >- Native Russian
 ---
@@ -87,9 +87,10 @@ My hobbies are stoneware ceramics and aquarelle painting
 
 ![IMG-20190926-WA0033](https://user-images.githubusercontent.com/77969817/106521540-235fa780-64bd-11eb-8b32-8135aea00ca3.jpg)
 
+My favourite channel is coriositystream.com[csc]
+
 Lately I write analitical articles as a columnist
-in Russian for
-in Spanish for [Diario del exportador](https://www.diariodelexportador.com/2021/01/mercado-de-pescado-en-rusia-las.html)
+in Spanish at [Diario del exportador](https://www.diariodelexportador.com/2021/01/mercado-de-pescado-en-rusia-las.html)
 
 ![All rights reserved](https://larus.travel/images/2020/07/larus6662.jpg "My own registered trademark Larus")
 
@@ -98,3 +99,4 @@ in Spanish for [Diario del exportador](https://www.diariodelexportador.com/2021/
 [sgd]:http://www.editrade.cl/ "Sigad Editrade webpage"
 [rca]:http://rta.customs.ru/nrta/index.php?option=com_content&view=article&id=3032&Itemid=2675
 [vk]:https://www.veon.com/ "Ex Vimpelkom LTD today a part of VEON®"
+[csc]:https://curiositystream.com/ "Curiositystream channel"
