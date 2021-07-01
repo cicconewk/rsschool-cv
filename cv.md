@@ -93,7 +93,8 @@ My hobbies are stoneware ceramics and aquarelle painting
 
 ![IMG-20190926-WA0033](https://user-images.githubusercontent.com/77969817/106521540-235fa780-64bd-11eb-8b32-8135aea00ca3.jpg)
 
-My favourite channel is coriositystream.com[csc]
+My favourite channel is 
+[curiositystream.com][csc]:
 
 Lately I write analitical articles as a columnist
 in Spanish at [Diario del exportador](https://www.diariodelexportador.com/2021/01/mercado-de-pescado-en-rusia-las.html)
