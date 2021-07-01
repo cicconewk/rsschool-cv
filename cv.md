@@ -36,6 +36,7 @@ _Key Customer team Call Center specialist_
 >**2002 - 2004**  Russian meat-based products factory Dubki ™
 _Suppliment department assistant at [the Meat Factory](https://dubki-rc.ru/ "Dubki webpage")_
 
+<br/>
 ***
 
 >**2021** actually alumna in DWFE Trainee Acamica/Globant course
@@ -56,7 +57,7 @@ _Suppliment department assistant at [the Meat Factory](https://dubki-rc.ru/ "Dub
 >>**2001 - 2006**  graduated with engineer degree
 >>_**[State Vavilov Agrarian University, Russia](http://en.sgau.ru/)**_
 
-
+<br/>
 ***
 
 ### **Hard skills**
