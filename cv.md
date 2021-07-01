@@ -37,7 +37,7 @@ _Key Customer team Call Center specialist_
 _Suppliment department assistant at [the Meat Factory](https://dubki-rc.ru/ "Dubki webpage")_
 
 <br/>
-***
+**************************************************************
 
 >**2021** actually alumna in DWFE Trainee Acamica/Globant course
 >>_by **[Acamica](https://www.acamica.com/)**_
@@ -58,7 +58,8 @@ _Suppliment department assistant at [the Meat Factory](https://dubki-rc.ru/ "Dub
 >>_**[State Vavilov Agrarian University, Russia](http://en.sgau.ru/)**_
 
 <br/>
-***
+**************************************************************
+
 
 ### **Hard skills**
 
