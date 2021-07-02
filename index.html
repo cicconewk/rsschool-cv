@@ -8,7 +8,18 @@
     <title>Curriculum Vitae Anna Larus</title>
   </head>
   <body>
-    <div class="col2">
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#exp">Experience</a></li>
+          <li><a href="#educ">Education</a></li>
+          <li><a href="#skl">Skills</a></li>
+          <li><a href="#more">More</a></li>
+        </ul>
+      </nav>
+    </header>
+    <section class="col2">
       <h1>Anna Aleinikova /nickname Anna Larus®</h1>
       <p>
         <img
@@ -17,12 +28,9 @@
           alt="my photo"
           vspace="5"
           hspace="5"
-        /><em
-          ><b>Adress:</b> Chile, Valparaiso, Labruyere 286 Phone: +56 972 777
-          000 (WhatsApp) E-mail: anialeinikova@gmail.com</em
-        >
+        />
       </p>
-      <p>
+      <p id="about">
         I am 36 and easy learner. For last 7 years I have been a self-studied
         and self-employed tourist guide and travel coordinator. I genuinely love
         logic and algorithms, and consider myself potentially good at Maths as
@@ -33,7 +41,7 @@
       </p>
       <hr />
       <br />
-      <h3>Experience</h3>
+      <h3 id="exp">Experience</h3>
       <ul>
         <li><b>2020 - until now</b> intern at a Customs Agency JVD in Chile</li>
         <li>
@@ -56,35 +64,38 @@
         </li>
       </ul>
       <hr />
-      <h3>Education</h3>
+      <h3 id="educ">Education</h3>
       <ul>
         <li>
           <b>2021 - until now</b> studying Front End Development course by
-          Acamica
+          <a href="https://www.acamica.com/">Acamica</a> - Software school
         </li>
         <li>
           <b>2021</b> finished Basic Front End Development course by
-          Plataforma5
+          <a href="https://plataforma5.la/rdm/online">Plataforma5</a> - Coding
+          Bootcamp
         </li>
         <li>
-          <b>2021</b> graduated from Digital Marketing course by Tu Clase Tu
-          Pais
+          <b>2021</b> graduated from Digital Marketing course by
+          <a href="https://www.tuclase.cl/">Tu Clase Tu Pais</a>
         </li>
         <li>
           <b>2020</b> graduated from Customs Legislacy course by National
-          Customs Camera of Chile
+          <a href="https://cadch.cl/">Customs Camera of Chile</a>
         </li>
         <li>
-          <b>2006-2010</b> graduated with customs manager degree from Russian
-          Customs Academy, Russia
+          <b>2006-2010</b> graduated with customs manager degree from
+          <a href="http://rta.customs.ru/">Russian Customs Academy, Russia</a>
         </li>
         <li>
-          <b>2001-2006</b> graduated with engineer degree from State Vavilov
-          Agrarian University, Russia
+          <b>2001-2006</b> graduated with engineer degree from
+          <a href="https://www.sgau.ru/"
+            >State Vavilov Agrarian University, Russia</a
+          >
         </li>
       </ul>
       <hr />
-      <h3>Hard Skills</h3>
+      <h3 id="skl">Hard Skills</h3>
       <ol>
         <li>
           CRM systems:
@@ -116,45 +127,51 @@
       <ul>
         <li>Management coordination and organization capacity</li>
         <li>Understress worker trained by Beeline couch team</li>
-        <li>Genuine love to command work, colaborate and help</li>
         <li>Customers and suppliers relationships management</li>
-        <li>Talent to make customers feel themselves your greatest value</li>
+        <li>High capacity of learning, targeted on efficience</li>
       </ul>
       <hr />
-      <div class="code">
+      <p>
+        Code Sample: Factorial from my
+        <a href="https://www.codewars.com/users/anlarus">Codewars</a> profile
+      </p>
+      <article class="code">
         function factorial(n)
         <br />
-          {if (n < 0 || n > 12) { throw new RangeError("Error!"); } 
+        {if (n < 0 || n > 12) { throw new RangeError("Error!"); }
         <br />
-            else {let a = 1;
+        else {let a = 1;
         <br />
-            for ( i = 1; i <= n; i++) {
-                               <br />
-            a = a*i;
+        for (let i = 1; i <= n; i++) {
         <br />
-            } return a;
+        a = a*i;
         <br />
-          } 
+        } return a;
+        <br />
+        }
         <br />
         }
         <br />
         <br />
 
-       <p>//check the value of variable to be inside the range
-        <br />
-      //if it is outside return "error"
-        <br />
-      //if it is inside, create new variable a, one of them factore role,
-        <br />
-      //and start "for" function
-        <br />
-      //and count factor from 1 to previous to n number and multiplicate every time
-        <br />
-      //exit the loop returning the ultimate "inside range" result </p>
-      </div>
+        <p>
+          //check the value of variable to be inside the range
+          <br />
+          //if it is outside return "error"
+          <br />
+          //if it is inside, create new variable a for the factore role,
+          <br />
+          //start "for" loop with iterator i
+          <br />
+          //count factor from 1 to previous to n number and multiplicate them
+          every time
+          <br />
+          //exit the for loop returning the ultimate "inside range" result
+        </p>
+      </article>
       <hr />
       <br />
-      <h3>My essence and free time</h3>
+      <h3 id="more">My essence and free time</h3>
       <p>
         <img
           id="hobby"
@@ -162,7 +179,7 @@
           alt="Me at the ceramic workshop"
           vspace="5"
           hspace="5"
-        />I am a queer woman, a partner through 13 years and a toddler´s mother.
+        />I am a partner through 13 years and a happy curious toddler´s mother.
         Guiding travellers has been a strong passion of mine since moving to
         Chile. Due to the pandemy, there is no more tourism. That’s why, now I
         have time and desire to look for a new area of subsistence for my
@@ -177,7 +194,7 @@
         >
         Customs Consulting Agency and
         <a href="https://ved24.com/node/59">VED24</a> International Commerce
-        Journal and in Spanish for
+        Journal and viceversa in Spanish for
         <a
           href="https://www.diariodelexportador.com/2021/01/mercado-de-pescado-en-rusia-las.html"
           alt="My recent article"
@@ -186,11 +203,29 @@
         >
       </p>
       <br />
-      <img
-        src="https://larus.travel/images/2020/07/larus6662.jpg"
-        width="80px"
-        alt="My registered Trade Mark"
-      />
-    </div>
+      <footer>
+        <div class="img-box">
+          <img
+            src="https://larus.travel/images/2020/07/larus6662.jpg"
+            alt="My registered Trade Mark"
+            id="logo"
+          />
+        </div>
+        <div>
+          <ul>
+            <li><a href="https://github.com/anlarus">My Github</a></li>
+            <li>2021</li>
+            <li>Chile +56972777000</li>
+            <li>anialeinikova@gmail.com</li>
+            <li><a href="https://rs.school/js/">RS School</a></li>
+          </ul>
+        </div>
+        <img
+          src="https://rs.school/images/rs_school_js.svg"
+          alt="RS School Logo"
+          class="logo"
+        />
+      </footer>
+    </section>
   </body>
 </html>
