@@ -6,6 +6,32 @@ body {
     margin:0 20% 0 20%;
 
 }
+nav {
+    color: black;
+    font-size: 18px;
+    line-height: 40px;
+}
+.col2 {
+    line-height: 1.4;
+}
+img#logo {
+    width: 100%;
+}
+
+img.logo {
+    width: 60px;
+}
+
+img#face {
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+   }
+img#hobby {
+    float: right;
+    padding-left: 10px;
+    padding-bottom: 10px;
+   }
 header {
     background-color: rgba(6, 85, 88, 0.623);
 }
@@ -21,28 +47,6 @@ nav ul li a {
     color: white;
     text-transform: uppercase;
 }
-nav {
-    color: black;
-    font-size: 18px;
-    line-height: 40px;
-}
-.curriculumVitae {
-    line-height: 1.4;
-}
-article.code {
-    color:rgba(23, 3, 204, 0.452)
-}
-img#face {
-    float: left;
-    padding-right: 10px;
-    padding-bottom: 10px;
-   }
-img#hobby {
-    float: right;
-    padding-left: 10px;
-    padding-bottom: 10px;
-   }
-
 footer ul {
     list-style:none;
     margin-left: -45px;
@@ -62,6 +66,8 @@ footer {
     justify-content: space-evenly;
     color: white;
     font-size: 18px;
+
+
 }
 footer a {
     color: white;
@@ -70,10 +76,6 @@ footer a {
     margin: 10px 0 0 0;
     width: 80px;
 }
-img#logo {
-    width: 100%;
+code {
+    color:rgba(23, 3, 204, 0.452)
 }
-img.logo {
-    width: 60px;
-}
-

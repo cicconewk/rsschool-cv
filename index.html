@@ -19,15 +19,13 @@
         </ul>
       </nav>
     </header>
-    <section class="curriculumVitae">
+    <section class="col2">
       <h1>Anna Aleinikova /nickname Anna Larus®</h1>
       <p>
         <img
           id="face"
           src="https://user-images.githubusercontent.com/77969817/106448007-f1205c80-6460-11eb-8c48-06d95d53d8ba.jpeg"
           alt="my photo"
-          vspace="5"
-          hspace="5"
         />
       </p>
       <p id="about">
@@ -135,40 +133,25 @@
         Code Sample: Factorial from my
         <a href="https://www.codewars.com/users/anlarus">Codewars</a> profile
       </p>
-      <article class="code">
-        function factorial(n)
-        <br />
-        {if (n < 0 || n > 12) { throw new RangeError("Error!"); }
-        <br />
-        else {let a = 1;
-        <br />
-        for (let i = 1; i <= n; i++) {
-        <br />
-        a = a*i;
-        <br />
-        } return a;
-        <br />
-        }
-        <br />
-        }
-        <br />
-        <br />
-
-        <p>
+      <pre>
+        
+        <code>
+          function factorial(n) {
+            if (n&lt;0 || n>12) { throw new RangeError("Error!"); }
+            else {let a = 1;
+              for ( i=1; i&lt;=n; i++) {
+                  a = a*i;
+                } return a;
+              }
+          }
           //check the value of variable to be inside the range
-          <br />
           //if it is outside return "error"
-          <br />
-          //if it is inside, create new variable a for the factore role,
-          <br />
-          //start "for" loop with iterator i
-          <br />
-          //count factor from 1 to previous to n number and multiplicate them
-          every time
-          <br />
-          //exit the for loop returning the ultimate "inside range" result
-        </p>
-      </article>
+          //if it is inside, create new variable a, one of them factore role,
+          //and start "for" function
+          //and count factor from 1 to previous to n number and multiplicate every time
+          //exit the loop returning the ultimate "inside range" result
+        </code>
+      </pre>
       <hr />
       <br />
       <h3 id="more">My essence and free time</h3>
@@ -177,8 +160,6 @@
           id="hobby"
           src="https://user-images.githubusercontent.com/77969817/106521540-235fa780-64bd-11eb-8b32-8135aea00ca3.jpg"
           alt="Me at the ceramic workshop"
-          vspace="5"
-          hspace="5"
         />I am a partner through 13 years and a happy curious toddler´s mother.
         Guiding travellers has been a strong passion of mine since moving to
         Chile. Due to the pandemy, there is no more tourism. That’s why, now I
@@ -197,7 +178,6 @@
         Journal and viceversa in Spanish for
         <a
           href="https://www.diariodelexportador.com/2021/01/mercado-de-pescado-en-rusia-las.html"
-          alt="My recent article"
         >
           Diario del exportador</a
         >
